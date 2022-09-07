@@ -1,0 +1,9 @@
+*{
+    background-color: aqua;
+    display: inline-block;
+    margin: 10px;
+}
+#box{
+    display: flex;
+    justify-content: space-evenly;
+}
